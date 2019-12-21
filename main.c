@@ -2,5 +2,6 @@
 int main()
 {
 	printf("hellowrod!");
+	printf("hellogit!");
 	return 0;
 }
